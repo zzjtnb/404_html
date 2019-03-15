@@ -1,0 +1,11 @@
+/* loading样式 */
+/* body {
+  background: #111;
+} */
+
+canvas {
+  display: block !important;
+  margin: 0 auto !important;
+
+}
+
