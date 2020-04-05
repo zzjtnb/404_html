@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://zzjtnb.com/#/user/new/main
+Sitemap: https://zzjtnb.com/#/user/blog/main
+Sitemap: https://zzjtnb.com/#/user/project/main
+Sitemap: https://zzjtnb.com/#/user/social/main
+Sitemap: https://zzjtnb.com/#/mobile/user/blog/main
+Sitemap: https://zzjtnb.com/#/mobile/user/project/main
+Sitemap: https://zzjtnb.com/#/mobile/user/self/main
